@@ -1,5 +1,29 @@
-pealkiri {
-    color:coral;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: large; 
+#pealkiri {
+    color:hsl(340, 100%, 82%);
+    font-family: 'Franklin Gothic Medium';
+    font-size: large;
+    text-align: center
+}
+
+p, li, ul, h1,h2,h3,table, a{
+    color:hsl(200, 100%,90%);
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+    font-size: 16px;
+
+}
+
+#rida1 {
+    color:blueviolet
+}
+
+img[src="https://cdn.discordapp.com/attachments/543518475273109514/1305272963272278051/image.png?ex=6733166d&is=6731c4ed&hm=db7a255e857b5dadf3f14bf24fcbe64c95afafbef2f724e318fa165459cebbfe&"] {
+    border: 2px solid #ff0000;
+    width: 200px;
+}
+
+body {
+    background-image: url(bg.jpg);
+    background-color: cornsilk
+
+
 }
